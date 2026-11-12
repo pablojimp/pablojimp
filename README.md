@@ -56,7 +56,7 @@ Además de estudiar, trabajo en proyectos reales para negocios locales a través
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
 | 🎸 [**Encore**](https://github.com/pablojimp/encore) | Plataforma fullstack de gestión de conciertos y eventos. Proyecto final de 1º DAM. | Java · Spring Boot · JavaScript |
-
+| 📋 [**TAGGED TODOs**](https://github.com/pablojimp/tagged-todos) | Extension para Visual Studio para poder tener todos los TODO con tag y divididos por apartados. | VScode API · JavaScript |
 ---
 
 ## 📊 Estadísticas de GitHub
